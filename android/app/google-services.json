@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821813251374",
+    "project_id": "cats-ed330",
+    "storage_bucket": "cats-ed330.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821813251374:android:e4c70be9473b0aea36bebf",
+        "android_client_info": {
+          "package_name": "com.example.catbreeds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA00_q1verOpDPdNfJ4KXPfD9Xptio-jhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
